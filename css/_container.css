@@ -1,6 +1,7 @@
 :root {
     --main-radius: 5px;
     --main-padding: 5px;
+    --susun-text: center;
   }
   
   body {
@@ -30,6 +31,7 @@
     grid-area: nav;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   main {
@@ -37,6 +39,7 @@
     grid-area: main;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   #sidebar {
@@ -44,6 +47,7 @@
     grid-area: sidebar;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   #content1 {
@@ -51,6 +55,7 @@
     grid-area: content1;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   #content2 {
@@ -58,6 +63,7 @@
     grid-area: content2;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   #content3 {
@@ -65,6 +71,7 @@
     grid-area: content3;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   footer {
@@ -72,6 +79,7 @@
     grid-area: footer;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
+    text-align: var(--susun-text);
   }
   
   a {
