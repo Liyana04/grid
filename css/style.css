@@ -119,4 +119,7 @@
   
 
   /* flex css */
-  
+  .box{
+    display: flex;
+    justify-content: space-between;
+  }
