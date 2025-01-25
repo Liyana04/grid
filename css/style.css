@@ -139,7 +139,12 @@ body{
 .box{
     display: flex;
     justify-content: space-between;
-    padding: 1em;
+}
+
+.box>.inside-box{
+  padding: 1em;
+  border-radius: 18px;
+  margin: 12px;
 }
 
 .card{
