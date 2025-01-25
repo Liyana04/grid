@@ -115,6 +115,11 @@
         "footer";
         overflow: hidden;
     }
+
+    .box{
+      display: flex;
+      flex-direction: column;
+    }
   }
   
 
