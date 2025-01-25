@@ -116,7 +116,7 @@
         overflow: hidden;
     }
 
-    .box{
+    .flex-box{
       display: flex;
       flex-direction: column;
     }
@@ -141,24 +141,24 @@ body{
     margin: auto;
 }
 
-.box{
+.flex-box{
     display: flex;
     justify-content: space-between;
 }
 
-.box>.inside-box{
+.flex-box>.flex-inside-box{
   padding: 1em;
   border-radius: 18px;
   margin: 12px;
 }
 
-.card{
+.flex-card{
     display: flex;
     flex-direction: row;
     padding: 12px;
 }
 
-.card img{
+.flex-card img{
   width: 40px;
   height: 40px;
 }
