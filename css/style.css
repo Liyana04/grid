@@ -144,12 +144,13 @@ body{
 .flex-box{
     display: flex;
     justify-content: space-between;
+    gap: 13px;    /* put the gap in the parent div */
 }
 
 .flex-box>.flex-inside-box{
   padding: 1em;
   border-radius: 18px;
-  margin: 12px;
+  /* margin: 12px; */
 }
 
 .flex-card{
