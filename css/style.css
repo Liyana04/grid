@@ -163,3 +163,15 @@ body{
   width: 40px;
   height: 40px;
 }
+
+#flex-section4{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 12px;
+}
+
+.flex-section4{
+  width: 50px;
+  height: 50px;
+}
