@@ -192,3 +192,7 @@ body{
   object-position: left center; 
   object-fit: contain;
 }
+
+.flex-section7{
+  display: flex;
+}
