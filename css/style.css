@@ -208,6 +208,8 @@ body{
 
 .flex-section7{
   display: flex;
+  justify-content: space-evenly;
+  gap: 12px;
 }
 
 .flex-footer{
