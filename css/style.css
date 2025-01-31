@@ -120,6 +120,12 @@
       display: flex;
       flex-direction: column;
     }
+
+    .flex-section5{
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
   }
   
 
