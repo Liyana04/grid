@@ -193,6 +193,11 @@ body{
   object-fit: contain;
 }
 
+.flex-section5{
+  background-color: #004d40;
+  display: flex;
+}
+
 .flex-section7{
   display: flex;
 }
