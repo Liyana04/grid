@@ -212,8 +212,15 @@ body{
 
 .flex-footer{
   background-color: #a06ff0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .flex-footer-icons{
   display: flex;
+  justify-content: space-between;
+}
+
+.flex-footer-icons i{
+  color: #004d40;
 }
