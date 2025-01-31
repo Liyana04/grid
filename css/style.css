@@ -84,7 +84,7 @@
     text-align: var(--susun-text);
   }
   
-  footer {
+  .grid-footer {
     background: #1de9b6;
     grid-area: footer;
     border-radius: var(--main-radius);
@@ -208,4 +208,8 @@ body{
 
 .flex-section7{
   display: flex;
+}
+
+.flex-footer footer{
+  background-color: #a06ff0;
 }
