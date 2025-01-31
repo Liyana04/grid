@@ -213,3 +213,7 @@ body{
 .flex-footer{
   background-color: #a06ff0;
 }
+
+.flex-footer-icons{
+  display: flex;
+}
