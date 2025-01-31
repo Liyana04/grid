@@ -196,6 +196,7 @@ body{
 .flex-section5{
   background-color: #004d40;
   display: flex;
+  padding: 1em;
 }
 
 .flex-section7{
