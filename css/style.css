@@ -141,6 +141,11 @@ body{
     color:black;
 } */
 
+#flex-navbar{
+  display: flex;
+  justify-content: space-around; 
+}
+
 #flex-navbar li{
   list-style-type: none;
   background-color: orange;
