@@ -34,7 +34,7 @@
     text-align: var(--susun-text);
   }
 
-  ul{
+  #grid-navbar ul{
     list-style-type: none;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -140,6 +140,11 @@ body{
     line-height: 1.5;
     color:black;
 } */
+
+#flex-navbar li{
+  list-style-type: none;
+  display: grid;
+}
 
 .flex-container{
     /* display: flex; */
