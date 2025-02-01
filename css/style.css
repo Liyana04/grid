@@ -143,7 +143,9 @@ body{
 
 #flex-navbar li{
   list-style-type: none;
-  display: grid;
+  background-color: orange;
+  text-decoration: none;
+  border: 1px solid #ff6f82;
 }
 
 .flex-container{
