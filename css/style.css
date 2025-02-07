@@ -222,7 +222,28 @@ body{
   object-fit: contain;
 }
 
+.flex-card-section5{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
+#avatar{
+  display: flex;
+  padding: 1em;
+}
+
+#avatar img{
+  object-fit: cover;
+  border-radius: 50%;
+  width: 4%;
+  height: 4%;
+  margin-right: 2em;
+}
+
+#info-section{
+  background-color: orange;
+}
 
 .flex-section7{
   display: flex;
