@@ -256,6 +256,14 @@ body{
   padding: 1em;
 }
 
+.vote-card button{
+  background-color: #4d4bb9;
+  border-radius: 1em;
+  color: white;
+  border: none;
+  padding: 8px;
+}
+
 .flex-section7{
   display: flex;
   justify-content: space-evenly;
