@@ -247,10 +247,13 @@ body{
 
 .vote-section{
   display: flex;
+  gap: 12px;
 }
 
-.vote-section div{
-  background-color: orange;
+.vote-card{
+  border: 2px solid #4d4bb9;
+  border-radius: 12px;
+  padding: 1em;
 }
 
 .flex-section7{
