@@ -242,7 +242,7 @@ body{
 }
 
 #info-section{
-  background-color: orange;
+  /* background-color: orange; */
 }
 
 .vote-section{
@@ -254,6 +254,10 @@ body{
   border: 2px solid #4d4bb9;
   border-radius: 12px;
   padding: 1em;
+}
+
+.vote-card p{
+  font-size: 14px;
 }
 
 .vote-card button{
