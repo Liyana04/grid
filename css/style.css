@@ -238,11 +238,7 @@ body{
   border-radius: 50%;
   width: 4%;
   height: 4%;
-  margin-right: 2em;
-}
-
-#info-section{
-  /* background-color: orange; */
+  margin: 1em 2em 0 0;
 }
 
 #info-section h4 {
@@ -251,7 +247,10 @@ body{
 
 #info-section small {
   display: block; /* Ensures "Australia" stays below */
-  margin-top: 2px; /* Adjust to fine-tune spacing */
+}
+
+#heart-section5{
+  font-weight: bold;
 }
 
 .vote-section{
