@@ -222,19 +222,7 @@ body{
   object-fit: contain;
 }
 
-.flex-section5{
-  background-color: #004d40;
-  display: flex;
-  padding: 1em;
-  color:#fff;
-  border-radius: 12px;
-  margin: 12px 0;
-}
 
-#flex-button-section5{
-  display: flex;
-  justify-content: space-around;
-}
 
 .flex-section7{
   display: flex;
