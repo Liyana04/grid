@@ -198,7 +198,10 @@ body{
 .flex-section4{
   padding: 1em;
   border-radius: 12px;
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
+  width: 50%;
 }
 
 .flex-button{
