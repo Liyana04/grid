@@ -245,6 +245,14 @@ body{
   background-color: orange;
 }
 
+.vote-section{
+  display: flex;
+}
+
+.vote-section div{
+  background-color: orange;
+}
+
 .flex-section7{
   display: flex;
   justify-content: space-evenly;
